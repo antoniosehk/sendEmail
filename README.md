@@ -1,4 +1,4 @@
-# Python3-SendEmail-via-Gmail
+# Python3-SendEmail-with-Attachments
 A Python 3 script to send email via your gmail with multiple file attachments
 
 # How to Run
